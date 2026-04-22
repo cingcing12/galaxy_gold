@@ -26,7 +26,7 @@ const closeMenu = () => {
     class="w-[70px] h-[70px] rounded-full object-cover shadow-md border-2 border-yellow-400/60 group-hover:shadow-lg group-hover:scale-105 transition-all duration-300"
   >
   <span class="text-xl font-bold text-black tracking-tight group-hover:text-yellow-600 transition-colors duration-300">
-    Galaxy Gold
+    Galaxy Global
   </span>
 </router-link>
       
